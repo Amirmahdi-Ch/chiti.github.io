@@ -1,5 +1,5 @@
-baseurl: "https://amirmahdi-chiti.github.io/"
-#url: ""
+baseurl: ""
+url: "https://amirmahdi-chiti.github.io"
 title: Amirmahdi Chiti
 theme: coder
 languagecode: en-us

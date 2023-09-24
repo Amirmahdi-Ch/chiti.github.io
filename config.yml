@@ -20,7 +20,6 @@ params:
   keywords: 'blog,developer,personal,devops'
   avatarurl: images/avatar.jpg
   faviconSVG: images/favicon.svg
-  #favicon_ico: images/favicon.ico
   favicon_32: images/favicon-32x32.png
   favicon_16: images/favicon-16x16.png
   since: 2019
